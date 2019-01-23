@@ -7,3 +7,9 @@ C:\Git\git-vs-sln-sample\Biz\SampleSln.Biz\obj\Debug\SampleSln.Biz.csproj.CoreCo
 C:\Git\git-vs-sln-sample\Biz\SampleSln.Biz\obj\Debug\SampleSln.Biz.csproj.CopyComplete
 C:\Git\git-vs-sln-sample\Biz\SampleSln.Biz\obj\Debug\SampleSln.Biz.dll
 C:\Git\git-vs-sln-sample\Biz\SampleSln.Biz\obj\Debug\SampleSln.Biz.pdb
+C:\Git\git-vs-sln-sample\samplesln-biz\SampleSln.Biz\bin\Debug\SampleSln.Biz.dll
+C:\Git\git-vs-sln-sample\samplesln-biz\SampleSln.Biz\bin\Debug\SampleSln.Biz.pdb
+C:\Git\git-vs-sln-sample\samplesln-biz\SampleSln.Biz\obj\Debug\SampleSln.Biz.csprojAssemblyReference.cache
+C:\Git\git-vs-sln-sample\samplesln-biz\SampleSln.Biz\obj\Debug\SampleSln.Biz.csproj.CoreCompileInputs.cache
+C:\Git\git-vs-sln-sample\samplesln-biz\SampleSln.Biz\obj\Debug\SampleSln.Biz.dll
+C:\Git\git-vs-sln-sample\samplesln-biz\SampleSln.Biz\obj\Debug\SampleSln.Biz.pdb

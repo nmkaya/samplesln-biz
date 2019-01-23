@@ -8,5 +8,9 @@ namespace SampleSln.Biz
 {
     public class Class1
     {
+        public string testMethod()
+        {
+            return "";
+        }
     }
 }
