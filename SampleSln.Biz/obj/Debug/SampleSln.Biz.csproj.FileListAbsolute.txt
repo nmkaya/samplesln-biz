@@ -1,0 +1,9 @@
+C:\Git\git-vs-sln-sample\Biz\SampleSln.Biz\bin\Debug\SampleSln.Biz.dll
+C:\Git\git-vs-sln-sample\Biz\SampleSln.Biz\bin\Debug\SampleSln.Biz.pdb
+C:\Git\git-vs-sln-sample\Biz\SampleSln.Biz\bin\Debug\SampleSln.DataAccess.dll
+C:\Git\git-vs-sln-sample\Biz\SampleSln.Biz\bin\Debug\SampleSln.DataAccess.pdb
+C:\Git\git-vs-sln-sample\Biz\SampleSln.Biz\obj\Debug\SampleSln.Biz.csprojAssemblyReference.cache
+C:\Git\git-vs-sln-sample\Biz\SampleSln.Biz\obj\Debug\SampleSln.Biz.csproj.CoreCompileInputs.cache
+C:\Git\git-vs-sln-sample\Biz\SampleSln.Biz\obj\Debug\SampleSln.Biz.csproj.CopyComplete
+C:\Git\git-vs-sln-sample\Biz\SampleSln.Biz\obj\Debug\SampleSln.Biz.dll
+C:\Git\git-vs-sln-sample\Biz\SampleSln.Biz\obj\Debug\SampleSln.Biz.pdb
